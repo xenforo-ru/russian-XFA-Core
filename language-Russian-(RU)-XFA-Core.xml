@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="XFA/Core" base_version_id="901070190" export_version="2">
+  <phrase title="xfa_core_days" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Дней]]></phrase>
+  <phrase title="xfa_core_error_initiating_paypal_communication" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Ошибка инициализации связи PayPal]]></phrase>
+  <phrase title="xfa_core_hours" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Часов]]></phrase>
+  <phrase title="xfa_core_minutes" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Минут]]></phrase>
+  <phrase title="xfa_core_redirecting_to_paypal" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Перенаправление на PayPal]]></phrase>
+  <phrase title="xfa_core_seconds" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Секунд]]></phrase>
+  <phrase title="xfa_core_type_to_filter" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Тип для фильтрации]]></phrase>
+</language>
