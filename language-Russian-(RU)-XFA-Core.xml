@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" user_selectable="1" addon_id="XFA/Core" base_version_id="901080090" export_version="2">
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" user_selectable="1" addon_id="XFA/Core" base_version_id="901120090" export_version="2">
+  <phrase title="xfa_core_accept_this_payment_mean" addon_id="XFA/Core" version_id="901120090" version_string="1.12.0"><![CDATA[Принять этот способ оплаты]]></phrase>
+  <phrase title="xfa_core_check_all" addon_id="XFA/Core" version_id="901120090" version_string="1.12.0"><![CDATA[Отметить все]]></phrase>
   <phrase title="xfa_core_days" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Дней]]></phrase>
   <phrase title="xfa_core_error_initiating_paypal_communication" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Ошибка инициализации связи PayPal]]></phrase>
   <phrase title="xfa_core_hours" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Часов]]></phrase>
   <phrase title="xfa_core_minutes" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Минут]]></phrase>
+  <phrase title="xfa_core_ncp_cc_api_key_explain" addon_id="XFA/Core" version_id="901120090" version_string="1.12.0"><![CDATA[Введите ключ API для Coinbase Commerce. Вы можете найти его <a href="https://commerce.coinbase.com/dashboard/settings">здесь</a>. Кроме того, вам также может понадобиться внести наш домен в белый список на этой странице (URL-адрес доски: {boardUrl}).]]></phrase>
+  <phrase title="xfa_core_ncp_cc_webhook_secret_explain" addon_id="XFA/Core" version_id="901120090" version_string="1.12.0"><![CDATA[Ключ для секрета вашего вебхука. Находится на <a href="https://commerce.coinbase.com/dashboard/settings">странице настроек Coinbase Commerce</a>. Вам также нужно будет добавить URL-адрес обратного вызова в том же месте. Нажмите "Добавить конечную точку" и добавьте: {boardUrl}/{url}]]></phrase>
   <phrase title="xfa_core_purchase" addon_id="XFA/Core" version_id="901080090" version_string="1.8.0"><![CDATA[Покупка]]></phrase>
   <phrase title="xfa_core_redirecting_to_paypal" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Перенаправление на PayPal]]></phrase>
   <phrase title="xfa_core_seconds" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Секунд]]></phrase>
   <phrase title="xfa_core_type_to_filter" addon_id="XFA/Core" version_id="901070190" version_string="1.7.1"><![CDATA[Тип для фильтрации]]></phrase>
+  <phrase title="xfa_core_uncheck_all" addon_id="XFA/Core" version_id="901120090" version_string="1.12.0"><![CDATA[Снять все]]></phrase>
 </language>
